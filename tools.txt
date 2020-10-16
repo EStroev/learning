@@ -1,0 +1,22 @@
+# tools
+    # sniffing
+        wireshark
+        tcpdump
+    # scan
+        nmap
+        masscan
+        rustscan
+    # vulnerabilities
+        nessus
+        nmap + vulners
+    # exploits
+        metasploit
+    # bruteforce
+        medusa
+        patator
+        hydra
+    # enumeration
+        enum4linux
+    # mitm
+        mitm6
+        responder

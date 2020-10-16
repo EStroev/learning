@@ -1,0 +1,219 @@
+# subscriptions
+    # rss
+        News ≈ Packet Storm
+        http://packetstormsecurity.org/headlines.xml
+        Darknet - The Darkside
+            http://feeds.feedburner.com/darknethackers
+        The Hacker News
+            http://thehackernews.com/feeds/posts/default
+        PortSwigger Web Security Blog
+            https://portswigger.net/blog/rss
+        SANS Internet Storm Center, InfoCON: green
+            http://iscxml.sans.org/rssfeed.xml
+        Krebs on Security
+            http://krebsonsecurity.com/feed/
+        Talos Blog
+            http://feeds.feedburner.com/feedburner/Talos
+        /r/netsec - Information Security News &amp; Discussion
+            https://www.reddit.com/r/netsec/.rss
+        SANS Penetration Testing
+            http://pen-testing.sans.org/blog/pen-testing/feed/
+        Naked Security
+            http://nakedsecurity.sophos.com/feed/
+        Project Zero
+            http://googleprojectzero.blogspot.com/feeds/posts/default
+        Threatpost | The first stop for security news
+            https://threatpost.com/feed/
+        SANS Digital Forensics and Incident Response Blog
+            http://computer-forensics.sans.org/blog/feed/
+        Google Online Security Blog
+            http://googleonlinesecurity.blogspot.com/atom.xml
+        Security List Network™
+            http://feeds.feedburner.com/seclist/feed?format=xml
+        KitPloit - PenTest Tools
+            http://feeds.feedburner.com/PentestTools
+        TrendLabs Security Intelligence Blog
+            http://feeds.trendmicro.com/Anti-MalwareBlog/
+        0patch Blog
+            https://0patch.blogspot.com/feeds/posts/default
+        Penetration Testing Lab
+            http://pentestlab.wordpress.com/feed/
+        Securelist - Всё об интернет-безопасности
+            http://www.securelist.com/ru/rss/allupdates
+        Carnal0wnage &amp; Attack Research Blog
+            http://carnal0wnage.attackresearch.com/feeds/posts/default
+        Whitepaper Files ≈ Packet Storm
+            http://rss.packetstormsecurity.org/files/tags/paper/
+        Pentestmag
+            https://pentestmag.com/feed/
+        Securelist - Information about Viruses, Hackers and Spam
+            http://www.securelist.com/en/rss/allupdates
+        Hackerone on Medium
+            https://medium.com/feed/tag/hackerone
+        Security Tool Files ≈ Packet Storm
+            http://rss.packetstormsecurity.org/files/tags/tool/
+        Darknet - The Darkside » Hacking Tools
+            http://www.darknet.org.uk/category/hacking-tools/feed/
+        Threatpost | The first stop for security news
+            http://threatpost.com/feed/
+        BugBountyWriteup - Medium
+            https://medium.com/feed/bugbountywriteup
+    # vulnerabilities
+        Full Disclosure
+            http://seclists.org/rss/fulldisclosure.rss"
+        Exploit-DB updates
+            http://www.exploit-db.com/rss.php"
+    # twitter
+        # rus
+            https://twitter.com/e3xpl0it
+            https://twitter.com/i_bo0om
+            https://twitter.com/ru_raz0r
+            https://twitter.com/devteev
+            https://twitter.com/d0znpp
+            https://twitter.com/090h
+            https://twitter.com/difezza
+            https://twitter.com/BetepO_ok
+            https://twitter.com/_saplt
+            https://twitter.com/isox_xx
+            https://twitter.com/a66at
+            https://twitter.com/ygoltsev
+            https://twitter.com/toxo4ka
+            https://twitter.com/kyprizel
+            https://twitter.com/codelancer
+            https://twitter.com/vkamluk
+            https://twitter.com/cyberpunkych
+            https://twitter.com/ValdikSS
+            https://twitter.com/3dwave
+            https://twitter.com/arkenoi
+            https://twitter.com/yarbabin
+            https://twitter.com/i_taksoydet
+            https://twitter.com/Black2Fan
+            https://twitter.com/arbitrarycode
+            https://twitter.com/4rt3m
+            https://twitter.com/260hz
+        # eng
+            https://twitter.com/SecurityL1st
+            https://twitter.com/disclosedh1
+            https://twitter.com/inj3ct0r
+            https://twitter.com/KitPloit
+            https://twitter.com/binitamshah
+            https://twitter.com/kmkz_security
+            https://twitter.com/XssPayloads
+            https://twitter.com/Cneelis
+            https://twitter.com/securestep9
+            https://twitter.com/DirectoryRanger ‏
+            https://twitter.com/hdmoore ‏
+            https://twitter.com/jackchou51706 ‏
+            https://twitter.com/SpecterOps ‏
+            https://twitter.com/harmj0y ‏
+            https://twitter.com/gentilkiwi ‏
+            https://twitter.com/_odisseus ‏
+            https://twitter.com/NotASecGuru ‏
+            https://twitter.com/4x6hw ‏
+            https://twitter.com/redcanaryco ‏
+            https://twitter.com/sec_consult ‏
+            https://twitter.com/_wald0 ‏
+            https://twitter.com/m3g9tr0n ‏
+            https://twitter.com/HybridAnalysis ‏
+            https://twitter.com/beyondnegative ‏
+            https://twitter.com/tiraniddo ‏
+            https://twitter.com/armitagehacker ‏
+            https://twitter.com/ryHanson ‏
+            https://twitter.com/malwrhunterteam ‏
+            https://twitter.com/xorrior ‏
+            https://twitter.com/424f424f ‏
+            https://twitter.com/enigma0x3 ‏
+            https://twitter.com/subTee
+            https://twitter.com/DirectoryRanger
+            https://twitter.com/gynvael
+            https://twitter.com/NCCGroupInfosec
+            https://twitter.com/KitPloit
+            https://twitter.com/PortSwigger
+            https://twitter.com/PwnFunction
+            https://twitter.com/albinowax
+            https://twitter.com/avlidienbrunn
+            https://twitter.com/seanmeals
+            https://twitter.com/fransrosen
+            https://twitter.com/arneswinnen
+            https://twitter.com/gerben_javado
+            https://twitter.com/itscachemoney
+            https://twitter.com/thedawgyg
+            https://twitter.com/NahamSec
+            https://twitter.com/orange_8361
+            https://twitter.com/filedescriptor
+            https://twitter.com/albinowax
+            https://twitter.com/kinugawamasato
+            https://twitter.com/Jhaddix
+    # telegram
+        https://t.me/chatinfosec
+        https://t.me/ctfwriteups
+        https://t.me/alexmakus
+        https://t.me/in4security
+        https://t.me/mis_team
+        https://t.me/HowToFind
+        https://t.me/bzd_channel
+        https://t.me/alexlitreev_channel
+        https://t.me/secinfosec
+        https://t.me/vulns
+        https://t.me/canyoupwnme
+        https://t.me/it_ha
+        https://t.me/YAH_Channel
+        https://t.me/haccking
+        https://t.me/ruscadasecnews
+        https://t.me/thebugbountyhunter
+        https://t.me/cybershit
+        https://t.me/freedom_fox
+        https://t.me/w2hack
+        https://t.me/InfoBezEvents
+        https://t.me/DFIRThreatHuntingSOC
+        https://t.me/hacker_frei
+        HNews
+        cnsec
+        RuScadaSec
+        phd_soc
+        safelinux
+        vulnersBot
+        https://t.me/CyberJobsRussia
+        https://t.me/RuSecJobs
+    # video
+        ZeroNights
+            https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A
+        BlackHat
+            https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg
+        DefCon
+            https://www.youtube.com/channel/UC9_QBPq2MmmThH9ftM_v5Fw
+            https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+        SecurityFest
+            https://www.youtube.com/channel/UCByLDp7r7gHGoO7yYMYFeWQ
+        RuxCon
+            https://www.youtube.com/channel/UCALgMv0YL4-8T1AGQa6DKZw
+        OffensiveCon
+            https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ
+        Recon
+            https://www.youtube.com/user/ekse0x/playlists
+        SyScan
+            https://www.youtube.com/channel/UCx5hZiie0VzFvV-u376v7DQ
+        Trooperscon
+            https://www.youtube.com/channel/UCPY5aUREHmbDO4PtR6AYLfQ
+        Shakacon
+            https://www.youtube.com/channel/UCIvytJLrQS3x8lTusvTLaOQ
+        Infiltrate
+            Infiltrate 2019
+        CCC
+            https://media.ccc.de/b/congress
+        HITB
+            https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA
+        MSRC
+            https://www.youtube.com/channel/UCKmzq2lAhDxLy36KtvVWpaQ
+        Bugcrowd
+            https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
+        OWASP
+            https://www.youtube.com/user/OWASPGLOBAL
+        CQuire
+            https://www.youtube.com/channel/UCWIEIMHXyJ62RF4aVmU30og
+        HTB
+            https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+        BugBounty
+            https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+        LiveOverflow
+            https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w

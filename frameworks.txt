@@ -1,0 +1,16 @@
+# frameworks
+    impacket
+        https://github.com/SecureAuthCorp/impacket
+    crackmapexec
+        https://github.com/byt3bl33d3r/CrackMapExec
+    https://github.com/EmpireProject/Empire
+    https://github.com/fireeye/commando-vm
+    https://github.com/PowerShellMafia/PowerSploit
+    https://github.com/cobbr/SharpSploit
+    https://github.com/lanmaster53/recon-ng
+    https://github.com/1N3/Sn1per?platform=hootsuite
+    https://github.com/eurialo/vsaudit
+    https://github.com/threat9/routersploit
+    https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/
+    Metasploit
+    CobaltStrike

@@ -1,0 +1,6 @@
+# useful
+    https://gchq.github.io/CyberChef/
+    https://book.hacktricks.xyz
+    https://bitvijays.github.io/index.html
+    https://charlesreid1.com/wiki/Category:Kali
+    https://github.com/swisskyrepo/PayloadsAllTheThings

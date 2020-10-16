@@ -1,0 +1,65 @@
+# labs
+    # common
+        Hack The Box
+            https://hackthebox.eu/
+        Penetration test lab "Test lab" | Pentestit
+            https://lab.pentestit.ru
+        Vulnhub
+            https://www.vulnhub.com/
+        WarGames
+            https://overthewire.org/wargames/
+        Hacker101
+            https://www.hacker101.com
+        TryHackMe
+            https://tryhackme.com
+    # web
+        OWASP BWA
+            https://github.com/chuckfw/owaspbwa
+        Juice Shop
+            https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+            https://owasp.org/www-project-juice-shop/
+            https://github.com/bkimminich/juice-shop#docker-container
+            https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fbkimminich%2Fjuice-shop&template=https%3A%2F%2Fgithub.com%2Fbkimminich%2Fjuice-shop
+        Mutillidae 2
+            https://hub.docker.com/r/citizenstig/nowasp/
+            https://sourceforge.net/projects/mutillidae/
+        Heartbleed
+            https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/
+        DWVA
+            https://hub.docker.com/r/citizenstig/dvwa/
+            https://hub.docker.com/r/infoslack/dvwa/
+        Wordpress
+            https://hub.docker.com/r/wpscanteam/vulnerablewordpress/
+        webgoat
+            https://hub.docker.com/r/webgoat/webgoat-8.0/
+            https://hub.docker.com/r/webgoat/webgoat-7.1/
+            https://github.com/WebGoat/WebGoat
+        Shepherd
+            https://hub.docker.com/r/ismisepaul/securityshepherd/
+        PortSwigger
+            https://portswigger.net/web-security
+        bWAPP
+            http://www.itsecgames.com
+        Gruyere
+            http://google-gruyere.appspot.com
+        XSS
+            https://github.com/tegal1337/0l4bs
+        NodeGoat
+            https://github.com/owasp/nodegoat
+        SQLi-Labs
+            https://github.com/Audi-1/sqli-labs
+        Hacking-Lab
+            https://www.hacking-lab.com/Remote_Sec_Lab/
+    # infrastructure
+        https://www.amanhardikar.com/mindmaps/Practice.html
+        Metasploitable 2/3
+        https://www.root-me.org/
+        https://ctf365.com
+        https://ringzer0ctf.com
+        https://www.hackthis.co.uk
+        https://www.pentesterlab.com/exercises
+        https://www.rebootuser.com/?page_id=1041
+        http://hacker101.com/
+        pwnOS
+        ShellShock https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/
+        SambaCry https://hub.docker.com/r/vulnerables/cve-2017-7494/
