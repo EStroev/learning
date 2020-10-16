@@ -36,7 +36,6 @@
         AWS Security Best Practices
         Hands on AWS penetration testing, Karl Gilbert & Benjamin Caudill
         Kubernetes Security. Operating Kubernetes Clusters and Applications, Liz Rice & Michael Hausenlabs
-Python Basics
     # windows
         Windows Internals, Mark E. Russinovich
         Современные операционные системы, Э. Танненбаум
