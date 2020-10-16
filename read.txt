@@ -1,0 +1,70 @@
+# read
+    # linux
+        https://linuxjourney.com
+        Командная строка Linux, Уильям Шоттс
+        Внутреннее устройство Linux, Брайан Уорд
+        UNIX and Linux System Administration Handbook, 4th Edition
+        How Linux Works, 2nd Edition: What Every Superuser Should Know
+        The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+        Understanding Linux Network Internals, Christian Benvenuti
+        Mastering Linux Security and Hardening, Donald A. Tevault
+        Linux System Programming, Robert Love
+        Linux System Administration, Tom Adelstein & Bill Lubanovic
+        Linux Networking Cookbook, Carla Schroder
+    # bash
+        Shell Scripting Step by Step (https://likegeeks.com/bash-script-easy-guide/)
+        Linux Command Line and Shell Scripting Bible
+        Awesome Bash (https://github.com/awesome-lists/awesome-bash/blob/master/readme.md)
+    # network
+        Сети для самых маленьких
+            https://habr.com/ru/post/134892/
+            https://www.youtube.com/watch?v=6YWX2i-izNk
+            https://linkmeup.ru/blog/11.html
+            https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNYsqGsxRQxYyQijILa94T9
+        CCNA Routing & Switching
+        CCNA Security
+        Attacking Network Protocols, James Forshaw
+        Practical Packet Analysis, Chris Sanders
+    # cloud
+        Cloud Penetration Testing Playbook
+        Container Security, Liz Rice
+        Docker Security, Adrian Mouat
+        Microservices Security in Action
+        Virtualization security, Dave Shackleford
+        https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
+        https://docs.microsoft.com/en-us/azure/security/fundamentals/operational-checklist
+        AWS Security Best Practices
+        Hands on AWS penetration testing, Karl Gilbert & Benjamin Caudill
+        Kubernetes Security. Operating Kubernetes Clusters and Applications, Liz Rice & Michael Hausenlabs
+Python Basics
+    # windows
+        Windows Internals, Mark E. Russinovich
+        Современные операционные системы, Э. Танненбаум
+        Kerberos (https://en.hackndo.com/kerberos/)
+        Silver & Golder Tickets (https://en.hackndo.com/kerberos-silver-golden-tickets/)
+        SPN (https://en.hackndo.com/service-principal-name-spn/)
+        AS_REP Roasting (https://en.hackndo.com/kerberos-asrep-roasting/)
+        Kerberosting (https://en.hackndo.com/kerberoasting/)
+        NTLM Relay
+            https://en.hackndo.com/ntlm-relay/
+            https://habrahabr.ru/company/pentestit/blog/226189/
+            https://2018.zeronights.ru/wp-content/uploads/materials/08-Ntlm-Relay-Reloaded-Attack-methods-you-do-not-know.pdf
+        AD Recon (https://speakerdeck.com/prashant3535/active-directory-recon-101-owasp-bay-area-presentation?slide=39)
+        Awesome Windows Domain Hardening Awesome (https://github.com/PaulSec/awesome-windows-domain-hardening)
+        SMB Relay
+            https://habrahabr.ru/post/142219/
+            https://pen-testing.sans.org/blog/2013/04/25/smb-relay-demystified-and-ntlmv2-pwnage-with-python
+        Pass-The-Hash
+            https://blog.stealthbits.com/passing-the-hash-with-mimikatz
+            https://blog.cobaltstrike.com/2015/05/21/how-to-pass-the-hash-with-mimikatz/
+            https://cqureacademy.com/blog/identity-theft-protection/pass-hash-attack-tutorial
+            https://www.securitylab.ru/analytics/461037.php
+            https://en.hackndo.com/pass-the-hash/
+        Wpad
+            https://www.youtube.com/watch?v=fwOnufXqBjY
+            https://www.blackhat.com/docs/us-16/materials/us-16-Goncharov-BadWpad.pdf
+        The Enemy Within: Stopping Advanced Attacks Against Local Users (https://www.slideshare.net/TalBeery1/the-enemy-within-stopping-advanced-attacks-against-local-users)
+        Active Directory Security. Presentations (https://adsecurity.org/?page_id=1352)
+        Active Directory and Active Directory Domain Services Port Requirements
+            https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd772723(v=ws.10)
+            https://support.microsoft.com/en-us/help/832017/service-overview-and-network-port-requirements-for-windows
